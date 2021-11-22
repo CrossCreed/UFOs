@@ -15,7 +15,13 @@ The data for the project is taken from the data.js file provided in **Module 11*
 ___
 The page has been updated to include multiple filters and enable users to select multiple criteria in their search of UFO sightings.
 
+![image](https://user-images.githubusercontent.com/89520192/142804100-fcea222e-2224-4e2e-9bd4-2e99fccd85d0.png)
+
+
 Once a user has updated one of the filter sections below, the page will automatically display the relevant data regarding the UFOs.
+
+![image](https://user-images.githubusercontent.com/89520192/142804180-f25bed71-871d-460d-b958-d90a200abcfc.png)
+
 
 The webpage also contains placeholders to show potential users the format for the search criteria. 
 
@@ -25,6 +31,8 @@ The webpage also contains placeholders to show potential users the format for th
 ___
 
 * One drawback of this webpage is that the Filter Search criterias look funny when the webpage is viewed in full. The Descriptions of each filter do not line up with the input boxes. To make this look more aesthetically pleasing, more formatting that adjusts each sections in place would be recommended. 
+
+![image](https://user-images.githubusercontent.com/89520192/142804211-e076c7d7-9076-4196-a96c-56a01a3ec5e8.png)
 
 
 Recommendations:
